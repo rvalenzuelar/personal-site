@@ -14,7 +14,7 @@ organizations:
     url: https://www.uoh.cl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include precipitation processes, forecast verification statistics, data visualization.
+bio: My research interests include precipitation processes related to Atmospheric Rivers and complex terrain, forecast verification statistics, and GPS meteorology.
 
 # Interests to show in About widget
 interests:
@@ -22,6 +22,9 @@ interests:
   - Atmospheric Rivers
   - Radar meteorology
   - QPF verification
+  - GPS meteorology
+  - Orographic precipitation
+  - Data visualization
 
 # Education to show in About widget
 education:
@@ -49,7 +52,7 @@ social:
     link: https://twitter.com/raulrainfall
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.cl/citations?user=7Gxwv5oAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/rvalenzuelar
