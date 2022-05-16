@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Volando en El Tiempo
+summary: Outreach project that aims to arise meteorology and climatology curiosity to children between 3 and 9 years old.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Outreach
+date: '2022-01-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: ''
+    icon_pack: ''
+    name: ''
+    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,12 +30,14 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In Spanish:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Una Lora Tricahue y una Chinita, ambas especies nativas chilenas, son las protagonistas del cuento – calendario “Volando en el tiempo”, proyecto financiado por el programa Ciencia Pública del Minciencia y ejecutado por la Universidad de O’Higgins (UOH).
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+La ejecución y distribución será apoyado por múltiples socios a nivel nacional como los PAR Explora O’Higgins, Arica- Parinacota, Magallanes y Biobío- CITAC, así como el Centro de Ciencia del Clima y la Resilencia (CR)2, Núcleo Milenio  Upwell, ACHIPEC y CEDESUS Pichilemu.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+“Volando en el Tiempo” está pensado para niñas y niños entre los 3 y los 9 años. “Se espera poder despertar la curiosidad en las Ciencias Atmosféricas de una manera simple: mirando un calendario que invita a vivir la experiencia de observar por la ventana o salir a ver el cielo y así conocer sobre el tiempo meteorológico en el tiempo cronológico (1 año) que dura el viaje de la Lora Tricahue por el país”, puntualizó Raúl Valenzuela, director del proyecto y académico del Instituto de Cs. De la Ingeniería, UOH.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+En su viaje por Chile, las protagonistas, permitirán que el público conozca y puedan vivir a través de la lectura e ilustración del cuento, fenómenos como la sequía, las olas de calor, la lluvia convectiva, la camanchaca, los tornados, los ríos atmosféricos, el viento costero y otros elementos propios del tiempo y el clima de Chile.
+
+Nuestro país cuenta con una diversidad de climas y la ocurrencia de particulares fenómenos meteorológicos que es necesario conocer y diferenciar sobre todo en un contexto en el que ya vivimos los impactos del Cambio Climático. Este cuento-calendario será distribuido en aulas y otros espacios públicos de las regionales de O’Higgins, Arica, Magallanes y Biobío”, enfatizó el director del proyecto.
