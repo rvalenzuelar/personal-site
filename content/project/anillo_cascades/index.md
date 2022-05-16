@@ -1,8 +1,12 @@
 ---
 title: Compound and Cascading Climate Extremes in Chile
+
 summary: Scientific project that aims to explore statistical and physical relationship between extreme climatic events that are triggered as compound (multiple events at the same time) and cascading (sequentially).
+
 tags:
   - Research
+  - Extreme events
+
 date: '2022-01-01'
 
 # Optional external URL for project (replaces project detail page).
@@ -32,16 +36,8 @@ url_video: ''
 # slides: example
 ---
 
-Flying through Weather is an outreach project that aims to arise meteorology and climatology curiosity in children between 3 and 9 years old. This project is funded by Ciencia Publica program.
+Most research and practical risk studies have so far focused on estimating the frequency of occurrence of individual extreme events. Hence, there is an urgent need to better understand the likelihood and impacts of compound and cascading events in Chile as well as unveil physical mechanisms driving such events. This need is more pronounced considering that a significant fraction of the Chilean critical infrastructure (bridges, power plants, water reservoirs, etc.) has not been designed to account for the effects of cascading and compound events. This proposal, involving an interdisciplinary team of researchers (climatologists, meteorologists, hydrologists, glaciologists, and oceanographers), has been designed to respond to this need. 
 
-In Spanish:
+We will focus on a number of costly and deadly hazards that, according to the available information, point to an increase in the risk of compound events (concurrent hazards) and cascading events (consecutive hazards) in Chile: HWs, droughts, wildfires, ARs, algal blooms and GLOFs.
 
-Una Lora Tricahue y una Chinita, ambas especies nativas chilenas, son las protagonistas del cuento – calendario “Volando en el tiempo”, proyecto financiado por el programa Ciencia Pública del Minciencia y ejecutado por la Universidad de O’Higgins (UOH).
-
-La ejecución y distribución será apoyado por múltiples socios a nivel nacional como los PAR Explora O’Higgins, Arica- Parinacota, Magallanes y Biobío- CITAC, así como el Centro de Ciencia del Clima y la Resilencia (CR)2, Núcleo Milenio  Upwell, ACHIPEC y CEDESUS Pichilemu.
-
-“Volando en el Tiempo” está pensado para niñas y niños entre los 3 y los 9 años. “Se espera poder despertar la curiosidad en las Ciencias Atmosféricas de una manera simple: mirando un calendario que invita a vivir la experiencia de observar por la ventana o salir a ver el cielo y así conocer sobre el tiempo meteorológico en el tiempo cronológico (1 año) que dura el viaje de la Lora Tricahue por el país”, puntualizó Raúl Valenzuela, director del proyecto y académico del Instituto de Cs. De la Ingeniería, UOH.
-
-En su viaje por Chile, las protagonistas, permitirán que el público conozca y puedan vivir a través de la lectura e ilustración del cuento, fenómenos como la sequía, las olas de calor, la lluvia convectiva, la camanchaca, los tornados, los ríos atmosféricos, el viento costero y otros elementos propios del tiempo y el clima de Chile.
-
-Nuestro país cuenta con una diversidad de climas y la ocurrencia de particulares fenómenos meteorológicos que es necesario conocer y diferenciar sobre todo en un contexto en el que ya vivimos los impactos del Cambio Climático. Este cuento-calendario será distribuido en aulas y otros espacios públicos de las regionales de O’Higgins, Arica, Magallanes y Biobío”, enfatizó el director del proyecto.
+Our mission is to assess the severity and frequency of compound and cascading events in Chile. Rather than applying the traditional risk assessment methods (that typically only consider one driver and/or hazard at a time), we will investigate spatial-temporal patterns of concurrent hazards (for example, HWs-fires-droughts) and consecutive hazards (for example, HWs-> droughts-> fires and ARs -> flooding -> algal blooms). We will combine existing datasets of individual hazard identification with regional climate models and climate observations to identify hotspots of compound effects and associated trends, and to determine the main drivers. Moreover, by using Regional Climate Models (RCMs) and assuming an array of emission scenarios, we will also assess the expected increase by mid-century in the number/severity of compound and cascading events, as well as unveil physical mechanisms responsible for these increases.
