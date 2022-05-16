@@ -11,7 +11,7 @@ external_link: ''
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Tricahue parror from Volando en El Tiempo 
+  caption: South American Tricahue parrot 
   focal_point: Smart
 
 links:
@@ -31,6 +31,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+Flying through Weather is an outreach project that aims to arise meteorology and climatology curiosity in children between 3 and 9 years old. This project is funded by Ciencia Publica program.
 
 In Spanish:
 
