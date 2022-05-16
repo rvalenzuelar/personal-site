@@ -9,7 +9,7 @@ date: '2022-01-01'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Tricahue parror from Volando en El Tiempo 
   focal_point: Smart
 
 links:
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 In Spanish:
