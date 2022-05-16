@@ -35,4 +35,4 @@ image:
 # slides: example
 ---
 
-Here there is access to the site: ![sala de lluvias](http://saladelluvias.uoh.cl/)
+Access to the site: [sala de lluvias](http://saladelluvias.uoh.cl/)
