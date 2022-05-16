@@ -8,6 +8,8 @@ date: '2022-01-01'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: Tricahue parror from Volando en El Tiempo 
   focal_point: Smart
