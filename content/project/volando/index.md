@@ -1,8 +1,11 @@
 ---
 title: Volando en El Tiempo
+
 summary: Outreach project that aims to arise meteorology and climatology curiosity to children between 3 and 9 years old.
+
 tags:
   - Outreach
+
 date: '2022-01-01'
 
 # Optional external URL for project (replaces project detail page).
@@ -14,15 +17,15 @@ image:
   caption: South American Tricahue parrot 
   focal_point: Smart
 
-links:
-  - icon: ''
-    icon_pack: ''
-    name: ''
-    url: ''
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+#   - icon: ''
+#     icon_pack: ''
+#     name: ''
+#     url: ''
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,7 +35,9 @@ url_video: ''
 # slides: example
 ---
 
-Flying through Weather is an outreach project that aims to arise meteorology and climatology curiosity in children between 3 and 9 years old. This project is funded by Ciencia Publica program.
+Flying through Weather is an outreach project that aims to arise meteorology and climatology curiosity in children between 3 and 9 years old. 
+
+This project is funded by Ministerio de Ciencia, Tecnología e Innovación through the Ciencia Publica program.
 
 In Spanish:
 
