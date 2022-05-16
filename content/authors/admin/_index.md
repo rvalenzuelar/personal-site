@@ -71,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-Raúl Valenzuela is a professor at Universidad de O'Higgins, Rancagua, Chile. His research interests include precipitation processes associated to Atmospheric Rivers, statistical verification of quantitative precipitation forecast, and GPS meteorology.
+Raúl Valenzuela is a professor at Universidad de O'Higgins (UOH), Rancagua, Chile and Adjoint Researcher at the Center for Climate and Resilience Research (CR2).  His research interests include precipitation processes associated to Atmospheric Rivers, statistical verification of quantitative precipitation forecast, and GPS meteorology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
