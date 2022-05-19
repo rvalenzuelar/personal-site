@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description: 
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 100%
+  - description: 
     icon: satellite
     icon_pack: fas
     name: Remote sensing
