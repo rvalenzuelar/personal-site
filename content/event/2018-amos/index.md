@@ -1,10 +1,10 @@
 ---
-title: The impacts of atmospheric rivers on precipitation over the west coast of southern South America
+title: Extreme rainfall characteristics in central-southern Chile and its relationship with Atmospheric Rivers
 
-event: International Atmospheric Rivers Conference
+event: 2018 AMOS-ICSHMO
 event_url: 
 
-location: La Jolla, California
+location: Australia
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -13,7 +13,7 @@ location: La Jolla, California
 #   country: United States
 
 summary: 
-abstract: 'Similar to mountainous west coast of North America, the west coast of South America (SA) is strongly affected by heavy orographic precipitation events that result from the landfalling Atmospheric Rivers (AR). When the pre-cold-frontal moisture transport enhances and concentrates over the ocean in the form of a narrow and long corridor heading to the Andes mountains in SA, orographic processes enhance precipitation along the windward side, usually producing floods, landslides, and river overflow, that at worst can cause irrecoverable losses and fatalities. On the other hand, these heavy orographic precipitation events are a major contributor to water resources in the region, especially at the subtropical latitudes where the Andes are higher and melted snow irrigates the desert lands on both flanks of the range. Despite their importance, the SA region has a significant gap in the knowledge of AR phenomena and their impacts compared to North America and western Europa. In this study, we will discuss results from the quantification of how AR storms contribute to the annual total precipitation along the west coast of SA between the southern tip of the continent and 30ºS, and across the Andes from the west coast (Chile) to the foot of the Andes in the leeside (Argentina). By doing so, we estimate the role of AR on the water cycle in the region as well as their inland penetration across the Andes. The Integrated Water Vapor Transport (IVT) strength and shape estimated from Climate Forecast System Reanalysis (CFSR) data over the 2001-2015 period is used for the AR identification, while daily precipitation recorded with rain gauges located in Chile and Argentina are used to quantify the impact of AR on precipitation over the region.'
+abstract: 'Central-southern Chile is the narrow strip of land along the west coast of South America, bounded to the east by the Andes cordillera. Precipitation is largely produced by mid-latitude storms, ranging from ~100 mm/year around 30°S to more than 2000 mm/year around 41°S. Extreme events have a disproportionally large impact in this region given its complex topography. In this study, we employ 67 years of daily rainfall observations (1950-2016) between 30°S and 41°S to examine the temporal and spatial characteristics of extreme rainfall (using 90th or larger percentiles) in this region. Climate Forecast System Reanalysis (CFSR) products between 1979-2011 allow us to assess the relationship between extreme daily rainfall events, integrated water vapor transport (IVT), and atmospheric rivers (ARs) making landfall along the Chilean coast. Monthly average number of extreme rainy days (RD) increase significantly southward but the extreme rain intensity (RI) has a peak around 36°S. There is a seasonal cycle in RD with a peak in austral wintertime, whereas RI shows no seasonal cycle. Extreme rainfall at selected reference stations (SRS) is relatively homogenous within ~100-250 km of radius. The joint distribution of CFSR-derived zonal- and meridional-IVT and daily rainfall indicates that no straightforward relationship between extreme rainfall and IVT can be established. The mean spatial structure of IVT for all extreme rainfall days at SRS shows that AR-like structures are present during these events. However, mean AR structures from northward locations are composed by extreme days with both AR and NO-AR structures, while southward locations include almost exclusively AR structures. Since ARs are coupled with cold-frontal dynamics, these results suggest that extreme rainfall in northward locations is likely associated with IVT from AR and non-AR sources (e.g. cut off lows), while southern locations are more frequently associated with ARs from landfalling cold fronts.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Maximiliano Viale & Raúl Valenzuela]
+authors: [Raúl Valenzuela, René Garreaud & Maximiliano Viale]
 tags: []
 
 # Is this a featured talk? (true/false)
