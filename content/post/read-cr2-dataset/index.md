@@ -3,7 +3,7 @@ title: Read CR2 meteorological dataset
 subtitle: 
 
 # Summary for listings and search engines
-summary: .
+summary: This is a python snippet to read csv files downloaded from CR2
 
 # Link this post with a project
 projects: []
@@ -33,13 +33,13 @@ authors:
 
 tags:
   - snippets
+  - cr2
   - python
 
 categories:
   - python
 ---
 
-This is a python snippet to read the csv file:
 
 ```python
 import pandas as pd
