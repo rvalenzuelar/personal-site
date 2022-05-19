@@ -32,8 +32,8 @@ authors:
   - admin
 
 tags:
-  - snippets
-  - cr2
+  - Climate Data Store
+  - ERA5
   - python
 
 categories:
