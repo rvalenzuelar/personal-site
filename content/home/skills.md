@@ -27,7 +27,7 @@ feature:
   - description: 
     icon: satellite
     icon_pack: fas
-    name: Remote sensing
+    name: Remote Sensing
 
 
 # Uncomment to use custom SVG icons.
