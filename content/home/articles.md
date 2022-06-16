@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
 title: Journal Articles
 subtitle: ''
@@ -19,13 +19,13 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -37,10 +37,10 @@ design:
 #   2 = Compact
 #   3 = Card
 #   4 = Citation  
-  view: list
+  view: 2
   columns: '2'
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->

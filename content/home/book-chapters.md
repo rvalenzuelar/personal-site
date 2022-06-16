@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 40
 
 title: Book Chapters
 subtitle: ''
@@ -21,7 +21,7 @@ content:
   filters:
     author: ''
     category: ''
-    publication_type: '5'
+    publication_type: '6'
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
@@ -32,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

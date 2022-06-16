@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Global and Regional Perspectives
+title: "Atmospheric Rivers: Global and Regional Perspectives"
 subtitle: ''
 summary: ''
 authors:
@@ -26,7 +26,7 @@ tags: []
 categories: []
 date: '2020-01-01'
 lastmod: 2022-06-16T12:39:18-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

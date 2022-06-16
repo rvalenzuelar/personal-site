@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2019-09-01'
 lastmod: 2022-06-16T12:21:44-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
