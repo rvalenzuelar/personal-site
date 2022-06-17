@@ -41,9 +41,23 @@ experience:
     company_url: ''
     company_logo: ''
     location: Santiago, Chile
-    date_start: '2016-01-01'
+    date_start: '2017-01-01'
     date_end: '2020-03-01'
-    description: Examinining statistical relationship between Atmospheric Rivers and extreme precipitation in central-southern Chile.
+    description: "**Research project**: Examinining statistical relationship between Atmospheric Rivers and extreme precipitation in central-southern Chile. <br>
+      **Sponsor**: Dr. Rene Garreaud <br>
+      **Funding**: ANID postdoctoral fellowship"
+
+  - title: PhD Student
+    company: Universidad of Colorado Boulder, ATOC
+    company_url: ''
+    company_logo: ''
+    location: Boulder, Colorado
+    date_start: '2011-07-01'
+    date_end: '2016-12-01'
+    description: "**Doctoral dissertation**: Terrain-Trapped Airflows and Orographic Precipitation Along the Coast of Northern California.  <br>
+      **Advisor**: Dr. David Kingsmill <br>
+      **Funding**: Fulbright Program, Becas Chile, Cu Boulder"
+
 
 design:
   columns: '2'

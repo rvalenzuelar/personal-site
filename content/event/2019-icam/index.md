@@ -11,7 +11,7 @@ abstract: 'In this study we explore extreme daily rainfall along central-souther
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-09-02T00:00:00Z'
+date: '2019-09-02'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -24,9 +24,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: ''
+  focal_point: Right
 
 # links:
 #   - icon: twitter

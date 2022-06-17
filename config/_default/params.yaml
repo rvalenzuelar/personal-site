@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  #theme_day: minimal
+  theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: M
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: '2'
     api_key: ''
     zoom: 15
 
