@@ -32,7 +32,7 @@ image:
 The myriad of weather and climate data available today makes even more necessary to find the best way to display the information in a meaningful way so that the communication is effective. This project explore different approaches to create visualizations from weather and climate data.
 
 On going initiatives include:
-* Monitoring weather data from UOH meteorological station ([UOHmet](met.uoh.cl))
+* Monitoring weather data from UOH meteorological station ([UOHmet](http://met.uoh.cl))
 * Monitoring disdrometer data at ARO in Universidad de Concepción ([visor-parsivel](https://visor-parsivel.herokuapp.com/))
 * Display rainfall data in a cyclical way ([Sala de Lluvias](http://saladelluvias.uoh.cl/))
 * Building 3D visualizations with Paraview
