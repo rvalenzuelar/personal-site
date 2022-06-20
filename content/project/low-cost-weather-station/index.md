@@ -28,13 +28,6 @@ image:
 # url_pdf: ''
 # url_slides: ''
 # url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 
 Weather stations are a key component of the atmospheric monitoring. One limitation to deploy dense networks is the cost of a professional station. This cost is often associated to the datalogger, which needs to be roboust when deploying in isolated and difficult-access locations. However, when thinking in easy-access locations and having a power line nearby, low-cost stations are a viable alternative.
