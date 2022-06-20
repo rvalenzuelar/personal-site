@@ -1,7 +1,7 @@
 ---
 title: Compound and Cascading Climate Extremes in Chile
 
-summary: Scientific project that aims to explore statistical and physical relationship between extreme climatic events that are triggered as compound (multiple events at the same time) and cascading (sequentially).
+summary: Explore statistical and physical relationship between extreme climatic events that are triggered in a compound (multiple events at the same time) and cascading (sequentially) way.
 
 tags:
   - Research
