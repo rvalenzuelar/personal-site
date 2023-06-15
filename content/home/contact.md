@@ -35,9 +35,9 @@ content:
     country: Chile
     country_code: CL
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Building A, Floor 7th
+    latitude: '-34.1646'
+    longitude: '-70.74170'
+  directions: Building B, Floor 5th
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'

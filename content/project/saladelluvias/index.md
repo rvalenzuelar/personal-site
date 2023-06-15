@@ -14,7 +14,7 @@ external_link: ''
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: South American Tricahue parrot 
+  caption: Saladelluvias site 
   focal_point: Smart
 
 # links:
@@ -35,4 +35,6 @@ image:
 # slides: example
 ---
 
-Access to the site: [sala de lluvias](http://saladelluvias.uoh.cl/)
+Usually rainfall variability is explored and visualized as time series and using lines as the graphic representation. Saladelluvias aims to provide a visual exploration of rainfall amounts in a different way, by applying a heatmap with the vertical axis deploying months and horizontal axis deploying years.
+
+Access to the site: [sala de lluvias](http://saladelluvias.cr2.cl/)
