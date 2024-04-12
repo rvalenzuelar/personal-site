@@ -40,6 +40,4 @@ categories:
   - citizen sciences
 ---
 
-Estas son las instrucciones del proyecto Pluviómetros Ciudadanos 2024:
-
-(Instrucciones)[/uploads/pluviometro_instrucciones.pdf]
+Estas son las instrucciones del proyecto Pluviómetros Ciudadanos 2024:[PDF](/uploads/pluviometro_instrucciones.pdf)
