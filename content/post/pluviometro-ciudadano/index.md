@@ -41,3 +41,6 @@ categories:
 ---
 
 Estas son las instrucciones del proyecto Pluviómetros Ciudadanos 2024: [PDF](/uploads/pluviometro_instrucciones.pdf)
+
+Las inscripciones deben realizarse en el siguiente link: [Inscripciones](https://pluviometrosuoh.fillout.com/inscripciones)
+
