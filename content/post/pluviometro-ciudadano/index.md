@@ -44,3 +44,7 @@ Estas son las instrucciones del proyecto Pluviómetros Ciudadanos 2024: [PDF](/u
 
 Las inscripciones deben realizarse en el siguiente link: [Inscripciones](https://pluviometrosuoh.fillout.com/inscripciones)
 
+Consultas al email: pluviometros.ciudadanos@uoh.cl
+
+
+
