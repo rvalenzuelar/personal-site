@@ -43,7 +43,7 @@ image:
 # 
 ---
 
-This gallery displays images captured with a Micro Rain Radar installed at the roof of Universidad de O'Higgins in Rancagua, Chile. The reflectivity colormap was developed by [Adam Massmann](https://massma.github.io). All the scripts are written in Python by Raúl Valenzuela using Proplot and Xarray. Raw data is converted to netCDF format using Peter Kuma's [mrr2c](https://github.com/peterkuma/mrr2c). This project is funded by grant ANID Fondecyt Iniciacion 11230184.
+This gallery displays images captured with a Micro Rain Radar installed at the roof of Universidad de O'Higgins in Rancagua, Chile. The original MRR processing script and the reflectivity colormap were developed by [Adam Massmann](https://massma.github.io). All current scripts are written in Python by Raúl Valenzuela using Proplot and Xarray. Raw data is converted to netCDF format using Peter Kuma's [mrr2c](https://github.com/peterkuma/mrr2c). This project is funded by grant ANID Fondecyt Iniciacion 11230184.
 
 {{< gallery album="mrr_gallery" resize_options="300x300" >}}
 
