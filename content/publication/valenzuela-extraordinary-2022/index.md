@@ -25,7 +25,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
