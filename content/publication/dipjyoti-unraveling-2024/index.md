@@ -35,7 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: ''
-doi: 10.1175/BAMS-D-22-0023.1
+doi: 10.1029/2024GL108664
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108664
