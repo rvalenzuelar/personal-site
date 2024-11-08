@@ -34,7 +34,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 # url_code: ''
-  # url_pdf: 'static/uploads/covariabilidad_cwv_precip2.pdf'
+url_pdf: '/uploads/covariabilidad_cwv_precip2.pdf'
 # url_slides: ''
 # url_video: ''
 
@@ -55,3 +55,4 @@ image:
 ---
 
 
+Descarga [PDF](/uploads/covariabilidad_cwv_precip2.pdf)

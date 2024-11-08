@@ -36,7 +36,7 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 # url_code: ''
-  # url_pdf: 'static/uploads/Grandes_eventos_de_pp2.pdf'
+url_pdf: '/uploads/Grandes_eventos_de_pp2.pdf'
 # url_slides: ''
 # url_video: ''
 
@@ -56,4 +56,4 @@ image:
 #   - example
 ---
 
-
+Descarga [PDF](/uploads/Grandes_eventos_de_pp2.pdf)
