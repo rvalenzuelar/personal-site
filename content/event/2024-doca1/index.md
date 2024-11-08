@@ -28,13 +28,13 @@ image:
   caption: ''
   focal_point: Right
 
-links:
+# links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 # url_code: ''
-  url_pdf: 'static/uploads/covariabilidad_cwv_precip2.pdf'
+  # url_pdf: 'static/uploads/covariabilidad_cwv_precip2.pdf'
 # url_slides: ''
 # url_video: ''
 
