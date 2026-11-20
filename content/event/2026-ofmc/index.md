@@ -16,7 +16,7 @@ date_end: '2026-11-27'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-11-20'
 
 authors: [Raúl Valenzuela, Charlie Opazo]
 tags: []
